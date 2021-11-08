@@ -1,9 +1,11 @@
 # FirePoint
 
 ## "Preventing the spread of natural fires in the Sverdlovsk region with the help of remote sensing data".
-
+ 
+ 
 
 We created this project in Tavatuy. 
+
 
 
 ### Problem:
@@ -21,6 +23,9 @@ To identify new methods to prevent natural fires through the use of GIS and remo
 - [Analyze space images using the QGIS geoinformation system.]
 - [Develop new methods to prevent the spread of fires.]
 - [Create an application for Android OS to display natural fires in the Sverdlovsk region with the ability to mark the observed fires.]
+
+
+
 
 
 Presentation: https://docs.google.com/presentation/d/1_zgK6aNFxTxD-QurLxi09iAN9t7lokQp/edit?usp=sharing&ouid=113390799588934179912&rtpof=true&sd=true
