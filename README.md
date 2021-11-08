@@ -18,11 +18,11 @@ To identify new methods to prevent natural fires through the use of GIS and remo
 
 ### Objectives: 
 - To determine the causes of fires.
-- [To identify the impact of fires on the environment.]
-- [To study methods of fire prevention.]
-- [Analyze space images using the QGIS geoinformation system.]
-- [Develop new methods to prevent the spread of fires.]
-- [Create an application for Android OS to display natural fires in the Sverdlovsk region with the ability to mark the observed fires.]
+- To identify the impact of fires on the environment.
+- To study methods of fire prevention.
+- Analyze space images using the QGIS geoinformation system.
+- Develop new methods to prevent the spread of fires.
+- Create an application for Android OS to display natural fires in the Sverdlovsk region with the ability to mark the observed fires.
 
 
 
