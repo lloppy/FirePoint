@@ -28,4 +28,4 @@ To identify new methods to prevent natural fires through the use of GIS and remo
 
 
 
-[Presentation:] (https://docs.google.com/presentation/d/1_zgK6aNFxTxD-QurLxi09iAN9t7lokQp/edit?usp=sharing&ouid=113390799588934179912&rtpof=true&sd=true)
+[ Presentation: ] ( https://docs.google.com/presentation/d/1_zgK6aNFxTxD-QurLxi09iAN9t7lokQp/edit?usp=sharing&ouid=113390799588934179912&rtpof=true&sd=true )
