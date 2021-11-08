@@ -19,12 +19,3 @@ Create an application for Android OS to display natural fires in the Sverdlovsk 
 
 
 Presentation: https://docs.google.com/presentation/d/1_zgK6aNFxTxD-QurLxi09iAN9t7lokQp/edit?usp=sharing&ouid=113390799588934179912&rtpof=true&sd=true
-
-
-
-
-
-
-
-
-Translated with www.DeepL.com/Translator (free version)
