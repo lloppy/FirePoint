@@ -17,7 +17,7 @@ To identify new methods to prevent natural fires through the use of GIS and remo
 
 
 ### Objectives: 
-- [To determine the causes of fires.]
+- To determine the causes of fires.
 - [To identify the impact of fires on the environment.]
 - [To study methods of fire prevention.]
 - [Analyze space images using the QGIS geoinformation system.]
